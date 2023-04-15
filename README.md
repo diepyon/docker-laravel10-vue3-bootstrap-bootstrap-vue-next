@@ -34,5 +34,8 @@ Docker + Laravel10 + Mysql + phpMyAdminの開発テンプレート
 ### リポジトリの変更
 git remote set-url origin https://github.com/[user-name]/[repository-name].git
 
+## カスタマイズ内容
+- 2038年問題対策としてtimestamp型のカラムを全てdatetime型に変更済
+
 ## Licence
 未定
