@@ -31,5 +31,8 @@ Docker + Laravel10 + Mysql + phpMyAdminの開発テンプレート
 ブラウザでアクセス
 [http://localhost](http://localhost)
 
+### リポジトリの変更
+git remote set-url origin https://github.com/[user-name]/[repository-name].git
+
 ## Licence
 未定
