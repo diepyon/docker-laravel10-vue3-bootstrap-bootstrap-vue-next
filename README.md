@@ -1,5 +1,5 @@
 ## Overview
-Docker + Laravel10 + Mysql + phpMyAdminの開発テンプレート
+Docker + Laravel10 + Vue3 + Mysql + phpMyAdminの開発テンプレート
 
 ## Requirement
 - macOS
